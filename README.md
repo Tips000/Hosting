@@ -19,6 +19,7 @@ git clone https://github.com/Tips000/Hosting.git
 ```
 cd Hosting
 ```
+```
 bash setup.sh
 ```
 ```
