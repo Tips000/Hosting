@@ -4,7 +4,7 @@
 </h1>
 
 <h1 align="center">
-  <a href="https">🎥 Demo Video:Hosting2</a>
+  <a href="https://youtu.be/3iPRROpMzFk">🎥 Demo Video:Hosting2</a>
 </h1>
 
 ### [TERMUX] Install All Comments
@@ -14,7 +14,7 @@
 pkg update && pkg upgrade -y
 ```
 ```
-git clone https://github.com/Tips000/Hosting.git
+git clone https://github.com/Masterda000/Hosting.git
 ```
 ```
 cd Hosting
